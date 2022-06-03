@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'konng0120@gmail.com',
+  title: 'notef.vercel.app',
   author: 'konng0120',
   email: 'konng0120@gmail.com',
   link: 'https://notef.vercel.app',
