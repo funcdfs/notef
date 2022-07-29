@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '',
+  title: 'fengwei2002',
   author: 'konng0120',
   email: 'konng0120@gmail.com',
   link: 'https://notef.vercel.app',
-  description: '',
+  description: 'note book',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
