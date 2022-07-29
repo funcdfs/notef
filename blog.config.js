@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'notef.vercel.app',
+  title: '',
   author: 'konng0120',
   email: 'konng0120@gmail.com',
   link: 'https://notef.vercel.app',
-  description: 'Notes from github.com/fengwei2002',
+  description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://github.com/fengwei2002',
   seo: {
-    keywords: ['fengwei2002', 'konng0120', 'KONNG'],
+    keywords: ['fengwei2002', 'konng0120', 'KONNG', "notef"],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
